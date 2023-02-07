@@ -1,0 +1,9 @@
+numpy
+imutils
+playsound
+argparse
+dlib
+opencv-python
+matplotlib
+scipy
+scikit-learn
